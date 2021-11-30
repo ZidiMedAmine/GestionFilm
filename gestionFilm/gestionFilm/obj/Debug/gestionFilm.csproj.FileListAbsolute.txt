@@ -1,0 +1,13 @@
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\bin\Debug\gestionFilm.exe.config
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.csprojResolveAssemblyReference.cache
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.Authentification.resources
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.Properties.Resources.resources
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.csproj.GenerateResource.Cache
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\bin\Debug\gestionFilm.mdb
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\bin\Debug\gestionFilm.exe
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\bin\Debug\gestionFilm.pdb
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.exe
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.pdb
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.Gestionfilm.resources
+c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.AjouterFilm.resources
+C:\Users\Uthred\Documents\Visual Studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.ModiferFilm.resources
