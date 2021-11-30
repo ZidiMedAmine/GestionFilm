@@ -11,3 +11,5 @@ c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\ob
 c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.Gestionfilm.resources
 c:\users\uthred\documents\visual studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.AjouterFilm.resources
 C:\Users\Uthred\Documents\Visual Studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.ModiferFilm.resources
+C:\Users\Uthred\Documents\Visual Studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.SupprimerFilm.resources
+C:\Users\Uthred\Documents\Visual Studio 2015\Projects\gestionFilm\gestionFilm\obj\Debug\gestionFilm.ChercherFilm.resources

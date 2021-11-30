@@ -16,7 +16,7 @@ namespace gestionFilm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ModiferFilm());
+            Application.Run(new Authentification());
         }
     }
 }

@@ -99,6 +99,9 @@
     <EmbeddedResource Include="Authentification.resx">
       <DependentUpon>Authentification.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ChercherFilm.resx">
+      <DependentUpon>ChercherFilm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Gestionfilm.resx">
       <DependentUpon>Gestionfilm.cs</DependentUpon>
     </EmbeddedResource>
@@ -114,6 +117,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SupprimerFilm.resx">
+      <DependentUpon>SupprimerFilm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="gestionFilmDataSet.xsc">
       <DependentUpon>gestionFilmDataSet.xsd</DependentUpon>
     </None>

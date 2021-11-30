@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Windows.Forms;
 using System.Data.OleDb;
 namespace gestionFilm
@@ -85,6 +83,7 @@ namespace gestionFilm
                 load_DataGrid();
                 comboBox.Items.Clear();
                 load_ComboBox();
+                cmd.Dispose();
                 MessageBox.Show("Modification validé!");
             }
             catch (Exception)
